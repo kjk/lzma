@@ -6,7 +6,7 @@ package main
 
 import (
 	//"compress/lzma"
-	"code.google.com/p/lzma"
+	"github.com/kjk/lzma"
 	"flag"
 	"fmt"
 	"io"
